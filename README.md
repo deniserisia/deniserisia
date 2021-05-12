@@ -1,16 +1,18 @@
-### Hi there 👋
+# 🔭 Hi, I'm Denise Rísia 👋
 
-<!--
-**deniserisia/deniserisia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*"Tem gente que sonha com o sucesso. E tem gente que trabalha todos os dias para conquistá-lo."*
 
-Here are some ideas to get you started:
+## ⚙️ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ I'm passionate about innovation, companies and technology.
+
+👨🏻‍💻 I'm a software engineering student at the Federal University of Ceará.
+
+
+## 🌐 Tech Stack
+
+🔧  C, Java, JavaScript, HTML5, CSS3, Bootstrap4, Spring BooT, WordPress.
+
+🛢  MySQL, MongoDB.
+
+🖥   Git,  GitHub.
