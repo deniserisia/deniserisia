@@ -11,8 +11,10 @@
 
 ## 🌐 Tech Stack
 
-🔧  C, Java, JavaScript, HTML5, CSS3, Bootstrap4, Spring BooT, WordPress.
+🔧  C, Java, Spring BooT, Swagger, Postman.
 
-🛢  MySQL, MongoDB.
+🔧 JavaScript, HTML5, CSS3, Bootstrap4, WordPress.
+
+🛢  MySQL, MongoDB, H2.
 
 🖥   Git,  GitHub.
