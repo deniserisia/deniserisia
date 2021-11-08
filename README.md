@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Denise Rísia 
+# Hi.gif
+ Hi, I'm Denise Rísia 
 
 *"Tem gente que sonha com o sucesso. E tem gente que trabalha todos os dias para conquistá-lo."*
 
