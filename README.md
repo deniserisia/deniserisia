@@ -1,13 +1,13 @@
 
- Hi, I'm Denise Rísia 
+ Olá, eu sou Denise Rísia.
 
 *"Tem gente que sonha com o sucesso. E tem gente que trabalha todos os dias para conquistá-lo."*
 
 ## ⚙️ About Me
 
-⚡ I'm passionate about innovation, companies and technology.
+⚡ Apaixonada por Inovação, Negócios e Tecnologias.
 
-👨🏻‍💻 I'm a software engineering student at the Federal University of Ceará.
+👨🏻‍💻 Uma eterna estudante de Engenharia de Software.
 
 
 ## 🌐 Tech Stack
@@ -16,4 +16,4 @@
 
 🛢  PostgreSQL, MongoDB, H2.
 
-🖥   Git,  GitHub, AzureDevOps.
+🖥   Git,  GitHub, AzureDevOps, Docker.
