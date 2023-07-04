@@ -7,13 +7,15 @@
 
 ⚡ Apaixonada por Inovação, Negócios e Tecnologias.
 
-👨🏻‍💻 Uma eterna estudante de Engenharia de Software.
+👨🏻‍💻 Uma eterna estudante de Engenharia de Software e Negócios Inovadores.
 
 
 ## 🌐 Tech Stack
 
-🔧  C, Java, Python, TypeScript, Angular, HTML5, CSS3, Bootstrap4, WordPress, Spring BooT, Swagger, Postman.
+🔧 Frontend: TypeScript, Angular, HTML5, CSS3, Bootstrap4, WordPress.
+
+🔧 Backend: C, Java, SpringBoot, Postman/Insomnia, Swagger.
 
 🛢  PostgreSQL, MongoDB, H2.
 
-🖥   Git,  GitHub, AzureDevOps, Docker.
+🖥  Git,  GitHub, AzureDevOps, Docker, Amazon Web Services.
