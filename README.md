@@ -6,6 +6,10 @@
 
 *"Tem gente que sonha com o sucesso. E tem gente que trabalha todos os dias para conquistá-lo."*
 
+## 🌐 Soft Skills
+
+👨🏻‍💻 Liderança, Gestão, Processos e Pessoas.
+
 ## 🌐 Tech Stack
 
 🔧 Frontend: TypeScript, Angular, HTML5, CSS3, Bootstrap4, WordPress.
