@@ -19,3 +19,5 @@
 🛢  PostgreSQL, MongoDB, H2.
 
 🖥  Git,  GitHub, AzureDevOps, Docker, Amazon Web Services.
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)](https://www.javascript.com/)
