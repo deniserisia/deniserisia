@@ -21,7 +21,7 @@
 🖥  Git, GitHub, AzureDevOps, Docker, Amazon Web Services.
 
 [![Java](https://www.java.com/)
-[![Python](https://img.shields.io/badge/Python-Expert-green)](https://www.python.org/)
+[![Python]](https://www.python.org/)
 [![C](https://img.shields.io/badge/C-Expert-blue)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![TypeScript](https://img.shields.io/badge/TypeScript-Expert-blue)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)](https://www.javascript.com/)
