@@ -12,11 +12,11 @@
 
 ## 🌐 Tech Stack
 
-🔧 Frontend: TypeScript, JavaScript, Angular, HTML5, CSS3, Bootstrap4, WordPress.
+🔧 Frontend: TypeScript, JavaScript, Angular, React, HTML5, CSS3, Bootstrap4, WordPress.
 
 🔧 Backend: C, Java, SpringBoot, Python, Postman/Insomnia, Swagger.
 
 🛢  BD: PostgreSQL, MongoDB, H2.
 
-🖥  Git, GitHub, AzureDevOps, Docker, Amazon Web Services.
+🖥  Git, GitHub, AzureDevOps, Docker, Amazon Web Services, SCRUM.
 
