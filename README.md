@@ -1,4 +1,3 @@
-# 👋 Olá,
 
 💻 Engenheira de Software & Tech Lead  
 🚀 Empreendedora em tecnologia e inovação  
