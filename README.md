@@ -1,22 +1,18 @@
-## ⚙️ Sobre
+# 👋 Olá,
 
-⚡  Olá, eu sou Denise Rísia.
+💻 Engenheira de Software & Tech Lead  
+🚀 Empreendedora em tecnologia e inovação  
+📚 Eterna estudante de Engenharia de Software e Negócios Inovadores  
 
-👨🏻‍💻 Apaixonada por Inovação, Negócios e Tecnologias, uma eterna estudante de Engenharia de Software e Negócios Inovadores.
+> “Tem gente que sonha com o sucesso. E tem gente que trabalha todos os dias para conquistá-lo.”
 
-*"Tem gente que sonha com o sucesso. E tem gente que trabalha todos os dias para conquistá-lo."*
+---
 
-## 🌐 Soft Skills
+## ⚙️ Sobre mim
 
-👨🏻‍💻 Liderança, Gestão, Processos e Pessoas.
+Sou apaixonada por **inovação, produtos digitais e educação em tecnologia**.  
+Atuo principalmente como **desenvolvedora fullstack** (Java + Spring Boot no backend e Angular/React no frontend), liderando times, projetos e ajudando negócios a saírem do papel com soluções escaláveis.
 
-## 🌐 Tech Stack
+Gosto de estar envolvida em todo o ciclo: **descoberta, arquitetura, desenvolvimento, qualidade, deploy e melhoria contínua**.
 
-🔧 Frontend: TypeScript, JavaScript, Angular, React, HTML5, CSS3, Bootstrap4, WordPress.
-
-🔧 Backend: C, Java, SpringBoot, Python, Postman/Insomnia, Swagger.
-
-🛢  BD: PostgreSQL, MongoDB, H2.
-
-🖥  Git, GitHub, AzureDevOps, Docker, Amazon Web Services, SCRUM.
-
+---
